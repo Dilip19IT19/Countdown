@@ -1,0 +1,36 @@
+
+body{
+  background-color: rgba(10, 30, 83, 0.91);
+}
+.container
+{
+  width:400px;
+  height: 80px;
+  background-color: cornflowerblue;
+  margin: auto;
+  border-radius: 10px;
+}
+
+h1{
+  text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',;
+  font-weight: bolder;
+  font-size: 40px;
+  letter-spacing: 3px;
+  color: rgb(14, 130, 239);
+
+}
+
+p{
+    font-size:18px;
+    font-weight: bold;
+    padding-top: 30px;
+    text-align: center;
+}
+
+footer{
+  text-align: center;
+  margin-top: 30px;
+  color: rgb(237, 71, 159);
+  font-family: cursive;
+}
